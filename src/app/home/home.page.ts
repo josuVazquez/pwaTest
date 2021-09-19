@@ -38,7 +38,7 @@ export class HomePage {
       text: `Here's my current location: 
         ${this.position.coords.latitude}, 
         ${this.position.coords.longitude}`,
-      url: 'http://ionicacademy.com/'
+      url: 'https://thirsty-blackwell-b47b77.netlify.app/'
     });
   }
 
